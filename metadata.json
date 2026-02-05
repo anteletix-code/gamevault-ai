@@ -1,0 +1,7 @@
+{
+  "name": "GameVault AI",
+  "description": "A public game file management and analysis platform. Upload game assets, scripts, or ROMs and use Gemini to automatically generate documentation, categorize assets, and visualize your library distribution.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
